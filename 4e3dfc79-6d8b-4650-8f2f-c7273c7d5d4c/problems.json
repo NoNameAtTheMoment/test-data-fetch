@@ -3,30 +3,41 @@
         "name": "Mercurial Monk",
         "uuid": "720ff7ea-2f25-48f7-8fdf-9bda72d5c52c",
         "problem": [[170,1],[173,1],[132,0],[135,0],[111,2],[123,2],[84,2],[73,2],[62,2],[37,2],[10,3]],
-        "level": 5
+        "level": 5,
+        "setter": "Renate",
+        "setter_github": "renate1234"
+
     },
     {
         "name": "Squiggly Stick",
         "uuid": "8179efa2-46f4-419d-a1f6-dab36e92d479",
         "problem": [[177,1],[180,1],[155,0],[154,0],[136,2],[138,2],[120,2],[122,2],[95,2],[85,2],[62,2],[64,2],[37,2],[21,2],[17,2],[6,3]],
-        "level": 2
+        "level": 2,
+        "setter": "Renate",
+        "setter_github": "renate1234"
     },
     {
         "name": "To the tune of a Mariachi Band",
         "uuid": "0f583f1d-6b60-486d-9405-576983041348",
         "problem": [[174,1],[176,1],[148,0],[149,0],[125,2],[112,2],[84,2],[86,2],[56,2],[44,2],[29,2],[20,2],[10,3]],
-        "level": 5
+        "level": 5,
+        "setter": "Jo",
+        "setter_github": "jolene_molene"
     },
     {
         "name": "Smooth as Velcro",
         "uuid": "8d4a46be-2b28-4452-8139-4eb15a6f4b7c",
         "problem": [[169,1],[172,1],[130,0],[145,0],[106,2],[71,2],[100,2],[31,2],[21,2],[12,3]],
-        "level": 7
+        "level": 7,
+        "setter": "Team",
+        "setter_github": "team_account"
     },
     {
         "name": "BYO knee pads",
         "uuid": "1adf3f77-d2ba-4abe-87c9-6a7e246ef1d4",
         "problem": [[178,1],[164,1],[139,0],[150,0],[97,2],[119,2],[69,2],[56,2],[73,2],[31,2],[4,3]],
-        "level": 3
+        "level": 3,
+        "setter": "Mark",
+        "setter_github": "mark_the_zuck"
     }
 ]
