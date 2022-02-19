@@ -4,6 +4,7 @@
         "uuid": "91216188-9ba5-4021-ad71-ef46c60d28fa",
         "problem": [[223,1],[225,1],[162,0],[165,0],[122,2],[127,2],[83,2],[67,2],[25,2],[5,3]],
         "level": 1,
+        "characteristics": [9,8,1,9,7,3],
         "setter": "Elke",
         "setter_github": "elkeline"
     },
@@ -12,6 +13,7 @@
         "uuid": "ceb9cde0-8da4-4f14-be4f-cde494289cf4",
         "problem": [[225,1],[209,1],[171,0],[156,0],[132,2],[107,2],[90,2],[52,2],[12,3]],
         "level": 4,
+        "characteristics": [8,9,5,9,1,2],
         "setter": "Dirk",
         "setter_github": "dirrrrrk"
     },
@@ -20,6 +22,7 @@
         "uuid": "1bb6a3bb-19dd-48e2-bf10-0b07bb39955b",
         "problem": [[229,1],[214,1],[191,0],[175,0],[129,2],[112,2],[93,2],[91,2],[36,2],[31,2],[18,3]],
         "level": 8,
+        "characteristics": [7,5,4,5,1,2],
         "setter": "Lotte",
         "setter_github": "lot_Te"
     },
@@ -28,6 +31,7 @@
         "uuid": "08669413-5966-45e6-bb8d-6e49be670483",
         "problem": [[200,1],[201,1],[180,0],[144,0],[171,1],[122,2],[67,2],[5,3]],
         "level": 6,
+        "characteristics": [2,9,8,5,8,4],
         "setter": "Mark",
         "setter_github": "mark_the_zuck"
     }
